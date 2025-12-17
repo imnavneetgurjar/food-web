@@ -6,15 +6,15 @@ The website is built from scratch using **HTML, CSS, and JavaScript** with a cle
 ---
 
 ## 🌐 Live Demo
-👉 https://imnavneetgurjar.github.io/foody/  
+👉 https://imnavneetgurjar.github.io/food-web/  
 *(Enable GitHub Pages to activate the demo)*
 
 ---
 
 ## 📸 Website Preview
 
-![Foody Website Preview](<img width="1861" height="857" alt="Screenshot 2025-12-18 023926" src="https://github.com/user-attachments/assets/8a1a01e4-6086-4c45-b0be-28bc6e31503b" />
-)
+![Foody Website Preview]<img width="1861" height="857" alt="Screenshot 2025-12-18 023926" src="https://github.com/user-attachments/assets/8a1a01e4-6086-4c45-b0be-28bc6e31503b" />
+
 
 ---
 
@@ -42,5 +42,5 @@ The website is built from scratch using **HTML, CSS, and JavaScript** with a cle
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/imnavneetgurjar/foody.git
+   git clone https://github.com/imnavneetgurjar/food-web.git
 
